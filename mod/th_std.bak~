@@ -1,0 +1,23 @@
+PCBNEW-LibModule-V1  Sun 27 May 2012 04:36:08 PM EDT
+$# encoding utf-8
+$INDEX
+standoff
+$EndINDEX
+$MODULE standoff
+Po 0 0 0 15 4D072D01 00000000 ~~
+Li standoff
+Sc 00000000
+AR
+Op 0 0 0
+T0 0 0 600 600 0 120 N I 21 N"s"
+T1 0 0 600 600 0 120 N I 21 N"VAL**"
+$PAD
+Sh "" C 1450 1450 0 0 0
+Dr 1300 0 0
+At STD N 00C0FFFF
+Ne 0 ""
+Po 0 0
+.LocalClearance 400
+$EndPAD
+$EndMODULE  standoff
+$EndLIBRARY
